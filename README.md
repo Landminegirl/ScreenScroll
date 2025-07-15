@@ -3,7 +3,7 @@ A text feature for blender to add in a "Typing" effect with loads of little tool
 
 ![Image](https://github.com/user-attachments/assets/fce2fe0b-9eff-4d98-bea3-53e77a514760)
 
-**USE:**
+**HOW TO USE:**
 
 Create a Text Object
 
@@ -36,6 +36,9 @@ In "Text Source" on the ScreenScroll Effect page look for the new script you jus
 
 Go nuts!
 
+
+
+**FEATURE DESCRIPTIONS**
 
 start frame: Select what frame your text starts its scroll
 
