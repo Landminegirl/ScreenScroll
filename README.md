@@ -3,6 +3,17 @@ A text feature for blender to add in a "Typing" effect with loads of little tool
 
 ![Image](https://github.com/user-attachments/assets/fce2fe0b-9eff-4d98-bea3-53e77a514760)
 
+_________________________________________________
+
+**INSTALLATION:**
+
+Drag the .py file directly into scene on blender 4.3 or higher or install it in Edit > Preferences > Add Ons > install from disk
+
+<img width="920" height="289" alt="editpref" src="https://github.com/user-attachments/assets/b8fd52d2-5cd0-457c-8ec0-867780f7f6ec" />
+
+_________________________________________________
+
+
 **HOW TO USE:**
 
 Create a Text Object
