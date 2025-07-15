@@ -1,6 +1,7 @@
 # ScreenScroll
-a text feature for blender to add in a "Typing" effect with loads of little tools
-![Image](https://github.com/user-attachments/assets/be773e66-6bfe-46ce-9554-b83067b7cdd9)
+A text feature for blender to add in a "Typing" effect with loads of little tools
+
+![Image](https://github.com/user-attachments/assets/fce2fe0b-9eff-4d98-bea3-53e77a514760)
 
 USE:
 Create a Text Object
