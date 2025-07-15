@@ -7,6 +7,8 @@ A text feature for blender to add in a "Typing" effect with loads of little tool
 
 Create a Text Object
 
+<img width="833" height="714" alt="Image" src="https://github.com/user-attachments/assets/4709e08f-5ec9-46f0-ae92-5175f6396740" />
+
 Go to the "Data" tab
 
 <img width="543" height="898" alt="Image" src="https://github.com/user-attachments/assets/b4b22d95-6aa8-4f7f-9092-15db77d0a948" />
@@ -29,6 +31,7 @@ Click the new button and make a new script!
 
 Put any and all text you want in the new script you make!
 
+<img width="1241" height="494" alt="Image" src="https://github.com/user-attachments/assets/660a490b-0f4c-4cba-96b4-650ab66fe4ee" />
 
 In "Text Source" on the ScreenScroll Effect page look for the new script you just made
 
