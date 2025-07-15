@@ -25,11 +25,11 @@ Go to your Scripting Tab
 
 <img width="1284" height="218" alt="Image" src="https://github.com/user-attachments/assets/91c525e7-8b33-4299-bc3f-8691e55df20b" />
 
-Click the new button and make a new script!
+Click the new button and make a new script
 
 <img width="1071" height="305" alt="Image" src="https://github.com/user-attachments/assets/04d1a5a0-df45-414e-a8ac-047fccd1d1f2" />
 
-Put any and all text you want in the new script you make!
+Put any and all text you want in the new script you make
 
 <img width="1241" height="494" alt="Image" src="https://github.com/user-attachments/assets/660a490b-0f4c-4cba-96b4-650ab66fe4ee" />
 
@@ -40,20 +40,20 @@ In "Text Source" on the ScreenScroll Effect page look for the new script you jus
 Go nuts!
 
 
-
+____________________________________________________________________________________________________________________________
 **FEATURE DESCRIPTIONS:**
 
 start frame: Select what frame your text starts its scroll
 
-<img width="392" height="31" alt="Image" src="https://github.com/user-attachments/assets/ab73e6b9-76b0-4990-b94b-5e28170526e4" />
+  <img width="392" height="31" alt="Image" src="https://github.com/user-attachments/assets/ab73e6b9-76b0-4990-b94b-5e28170526e4" />
 
 letters per second: Determines how fast the letters type
 
-<img width="389" height="28" alt="Image" src="https://github.com/user-attachments/assets/69fd3a03-b564-482d-9944-82bc1328f236" />
+  <img width="389" height="28" alt="Image" src="https://github.com/user-attachments/assets/69fd3a03-b564-482d-9944-82bc1328f236" />
 
 delete mode: makes it look like the text is being deleted instead of added
 
-<img width="105" height="26" alt="deletemode" src="https://github.com/user-attachments/assets/9d770bcf-88d1-49b2-9ab1-7b8b21ad30f0" />
+  <img width="105" height="26" alt="deletemode" src="https://github.com/user-attachments/assets/9d770bcf-88d1-49b2-9ab1-7b8b21ad30f0" />
 
 reverse mode: types it bottom > top motion instead of the normal top > bottom (it doesnt like to work with scroll mode but im working on it)
 
