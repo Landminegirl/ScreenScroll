@@ -46,34 +46,41 @@ ________________________________________________________________________________
 start frame: Select what frame your text starts its scroll
 
   <img width="392" height="31" alt="Image" src="https://github.com/user-attachments/assets/ab73e6b9-76b0-4990-b94b-5e28170526e4" />
+_________________________________________________
 
 letters per second: Determines how fast the letters type
 
   <img width="389" height="28" alt="Image" src="https://github.com/user-attachments/assets/69fd3a03-b564-482d-9944-82bc1328f236" />
+_________________________________________________
 
 delete mode: makes it look like the text is being deleted instead of added
 
   <img width="105" height="26" alt="deletemode" src="https://github.com/user-attachments/assets/9d770bcf-88d1-49b2-9ab1-7b8b21ad30f0" />
+_________________________________________________
 
 reverse mode: types it bottom > top motion instead of the normal top > bottom (it doesnt like to work with scroll mode but im working on it)
 
 <img width="106" height="28" alt="reversemode" src="https://github.com/user-attachments/assets/6db40124-aaf8-4f04-81a0-022b6913afd0" />
+_________________________________________________
 
 loop mode: if it runs outta stuff to type, itll just type it again
 
   (loop delay: how long it takes to type the next sentence)
 
 <img width="396" height="50" alt="loopmode" src="https://github.com/user-attachments/assets/919fa590-f7f0-4840-86c5-62e6fdea7f9c" />
+_________________________________________________
 
 sentence cycle: at the end of a sentence it will delete that sentence and then type out the next one
 
 <img width="118" height="26" alt="sentencecycle" src="https://github.com/user-attachments/assets/6d131eb7-bbe7-48c9-adee-c3e10567b123" />
+_________________________________________________
 
 scroll mode: scrolls the text upwards and deletes it after selected line length 
 
   (max lines: how many lines it shows before it scrubs upwards)
 
 <img width="392" height="51" alt="scrollmode" src="https://github.com/user-attachments/assets/8b045a8d-fb53-4026-9555-aadb98dbae19" />
+_________________________________________________
 
 blinking cursor: adds a cursor at the end of the typing lines
 
@@ -82,6 +89,7 @@ blinking cursor: adds a cursor at the end of the typing lines
   (cursor blink speed: how fast the cursor flashes)
 
 <img width="395" height="79" alt="cursor" src="https://github.com/user-attachments/assets/6b6d6515-4a80-44b6-9b7e-9842c79a387a" />
+_________________________________________________
 
 
 random delay: lets you add variation to the speed between each typed letter so it can feel more "human"
@@ -89,4 +97,5 @@ random delay: lets you add variation to the speed between each typed letter so i
   (random delay amount: pick how big the delay can be)
 
 <img width="390" height="55" alt="delay" src="https://github.com/user-attachments/assets/876c73aa-d753-42fe-8bd9-d65995b8194f" />
+_________________________________________________
 
