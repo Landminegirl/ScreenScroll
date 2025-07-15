@@ -41,7 +41,7 @@ Go nuts!
 
 
 
-**FEATURE DESCRIPTIONS**
+**FEATURE DESCRIPTIONS:**
 
 start frame: Select what frame your text starts its scroll
 
