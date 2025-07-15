@@ -3,7 +3,7 @@ A text feature for blender to add in a "Typing" effect with loads of little tool
 
 ![Image](https://github.com/user-attachments/assets/fce2fe0b-9eff-4d98-bea3-53e77a514760)
 
-USE:
+**USE:**
 Create a Text Object
 
 Go to the "Data" tab
